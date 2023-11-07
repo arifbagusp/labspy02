@@ -164,7 +164,7 @@ print("Bilangan terbesar adalah:", terbesar)
 ````
 
 ## OUTPUT
-<img src="struktur kondisi/latihan1.png" width="500px">
+<img src="Struktur kondisi/latihan1.png" width="500px">
 
 ## Latihan 2
 ````
@@ -189,7 +189,7 @@ for bilangan in data:
 
 ````
 ## OUTPUT
-<img src="struktur kondisi/latihan2.png" width="500px">
+<img src="Struktur kondisi/latihan2.png" width="500px">
 
 ## PERULANGAN 
 ## Latihan 1
